@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cúpula Imersiva
+* source:	https://sketchfab.com/3d-models/cupula-imersiva-c15aa1829ace45f1b067af86dea206b3
+* author:	Lagar do Avô (https://sketchfab.com/lagardoavo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cúpula Imersiva" (https://sketchfab.com/3d-models/cupula-imersiva-c15aa1829ace45f1b067af86dea206b3) by Lagar do Avô (https://sketchfab.com/lagardoavo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
